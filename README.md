@@ -4,14 +4,13 @@
   <br>
   <h4 align="center">In this project I build a model for classifying the Email & SMS into spam or not spam using machine learning.</h4>
   <br>
-  <a href="https://github.com/arjunan-k/Spilter"><img src="https://github.com/arjunan-k/Spilter/blob/main/Jupyter/bg.jpg?raw=true" alt="SPILTER"></a>
-
+  <a href="https://github.com/arjunan-k/Spilter"><img src="https://github.com/arjunan-k/Spilter/blob/main/jupyter/bg.jpg?raw=true" alt="SPILTER"></a>
 </h1>
 
 ## What It Does: 
 <p align="center">
   <br>
-  <img src="https://github.com/arjunan-k/Spilter/blob/main/Jupyter/1.png?raw=true">
+  <img src="https://github.com/arjunan-k/Spilter/blob/main/jupyter/1.png?raw=true">
 </p>
 
 ## Preview:
@@ -19,14 +18,14 @@ https://user-images.githubusercontent.com/104669486/208367453-f84989f2-83f6-46ca
 
 <!-- <p align="center">
   <br>
-  <img src="https://github.com/arjunan-k/Spilter/blob/main/Jupyter/demo.gif?raw=true">
+  <img src="https://github.com/arjunan-k/Spilter/blob/main/jupyter/demo.gif?raw=true">
 </p> -->
 
 ## How It Does:
 Extract the text and the target class from the dataset. Extract the features of the test using TF-IDF vectorizer for the Input features. Used MultinomialNB standard classifier to classify the data into spam or not spam.
 <p align="center">
   <br>
-  <img src="https://github.com/arjunan-k/Spilter/blob/main/Jupyter/2.png?raw=true">
+  <img src="https://github.com/arjunan-k/Spilter/blob/main/jupyter/2.png?raw=true">
 </p>
 
 ## Prerequisites:
@@ -51,7 +50,7 @@ The files contain one message per line. Each line is composed by two columns:
 ## Model Pipeline:
 <p align="center">
   <br>
-  <img src="https://github.com/arjunan-k/Spilter/blob/main/Jupyter/3.jpg?raw=true">
+  <img src="https://github.com/arjunan-k/Spilter/blob/main/jupyter/3.jpg?raw=true">
 </p>
 
 ## Components:
